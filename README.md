@@ -1,13 +1,15 @@
  <!-- 예전 사용 코드
 코드포스 스택 [![CodeForces Profile](https://cf.leed.at?id=bym4094)](https://codeforces.com/profile/bym4094)
-트로피 [![trophy](https://github-profile-trophy.vercel.app/?username=ByeonUi-Hyeok)](https://github.com/ryo-ma/github-profile-trophy)
+트로피 [![trophy](https://github-profile-trophy.vercel.app/?username=UHByeon)](https://github.com/ryo-ma/github-profile-trophy)
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Ui-Hyeok's%20Github&fontAlign=76.5&fontAlignY=50&color=gradient&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Ui-hyeok%20Byeon&fontAlign=76.5&fontAlignY=50&color=gradient&fontSize=45)
 <!-- 헤더 참조주소 : https://github.com/kyechan99/capsule-render -->
+[개발 블로그 · uhbyeon's log_](https://uhbyeon.github.io/)
+
 <!-- 방문자수 시작 -->
 <div align=right>
   
-[![counts](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FByeonUi-Hyeok%2Fhit-counter&count_bg=%23B8B8B8&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8&edge_flat=false)](https://hits.seeyoufarm.com)
+[![counts](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUHByeon%2Fhit-counter&count_bg=%23B8B8B8&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 <!-- 방문자수 끝 -->
@@ -75,7 +77,7 @@ bym4094@naver.com
 ### 깃허브 관리
 <!-- 깃허브 스택 시작 -->
 
-![UiHyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeonUi-Hyeok&show_icons=true&theme=radical)
+![Ui-hyeok Byeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=UHByeon&show_icons=true&theme=radical)
 
 <!-- 깃허브 스택 끝 -->
 
